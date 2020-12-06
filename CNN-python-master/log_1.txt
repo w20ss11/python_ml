@@ -1,0 +1,312 @@
+training count: 10/0       training: 500/ 0
+training count: 10/0       training: 500/ 100
+training count: 10/0       training: 500/ 200
+training count: 10/0       training: 500/ 300
+training count: 10/0       training: 500/ 400
+training count: 10/1       training: 500/ 0
+training count: 10/1       training: 500/ 100
+training count: 10/1       training: 500/ 200
+training count: 10/1       training: 500/ 300
+training count: 10/1       training: 500/ 400
+training count: 10/2       training: 500/ 0
+training count: 10/2       training: 500/ 100
+training count: 10/2       training: 500/ 200
+training count: 10/2       training: 500/ 300
+training count: 10/2       training: 500/ 400
+training count: 10/3       training: 500/ 0
+training count: 10/3       training: 500/ 100
+training count: 10/3       training: 500/ 200
+training count: 10/3       training: 500/ 300
+training count: 10/3       training: 500/ 400
+training count: 10/4       training: 500/ 0
+training count: 10/4       training: 500/ 100
+training count: 10/4       training: 500/ 200
+training count: 10/4       training: 500/ 300
+training count: 10/4       training: 500/ 400
+training count: 10/5       training: 500/ 0
+training count: 10/5       training: 500/ 100
+training count: 10/5       training: 500/ 200
+training count: 10/5       training: 500/ 300
+training count: 10/5       training: 500/ 400
+training count: 10/6       training: 500/ 0
+training count: 10/6       training: 500/ 100
+training count: 10/6       training: 500/ 200
+training count: 10/6       training: 500/ 300
+training count: 10/6       training: 500/ 400
+training count: 10/7       training: 500/ 0
+training count: 10/7       training: 500/ 100
+training count: 10/7       training: 500/ 200
+training count: 10/7       training: 500/ 300
+training count: 10/7       training: 500/ 400
+training count: 10/8       training: 500/ 0
+training count: 10/8       training: 500/ 100
+training count: 10/8       training: 500/ 200
+training count: 10/8       training: 500/ 300
+training count: 10/8       training: 500/ 400
+training count: 10/9       training: 500/ 0
+training count: 10/9       training: 500/ 100
+training count: 10/9       training: 500/ 200
+training count: 10/9       training: 500/ 300
+training count: 10/9       training: 500/ 400
+testing:   1000 / 0
+testing:   1000 / 100
+testing:   1000 / 200
+testing:   1000 / 300
+testing:   1000 / 400
+testing:   1000 / 500
+testing:   1000 / 600
+testing:   1000 / 700
+testing:   1000 / 800
+testing:   1000 / 900
+error rate: 0.203 
+
+training count: 10/0       training: 500/ 0
+training count: 10/0       training: 500/ 100
+training count: 10/0       training: 500/ 200
+training count: 10/0       training: 500/ 300
+training count: 10/0       training: 500/ 400
+training count: 10/1       training: 500/ 0
+training count: 10/1       training: 500/ 100
+training count: 10/1       training: 500/ 200
+training count: 10/1       training: 500/ 300
+training count: 10/1       training: 500/ 400
+training count: 10/2       training: 500/ 0
+training count: 10/2       training: 500/ 100
+training count: 10/2       training: 500/ 200
+training count: 10/2       training: 500/ 300
+training count: 10/2       training: 500/ 400
+training count: 10/3       training: 500/ 0
+training count: 10/3       training: 500/ 100
+training count: 10/3       training: 500/ 200
+training count: 10/3       training: 500/ 300
+training count: 10/3       training: 500/ 400
+training count: 10/4       training: 500/ 0
+training count: 10/4       training: 500/ 100
+training count: 10/4       training: 500/ 200
+training count: 10/4       training: 500/ 300
+training count: 10/4       training: 500/ 400
+training count: 10/5       training: 500/ 0
+training count: 10/5       training: 500/ 100
+training count: 10/5       training: 500/ 200
+training count: 10/5       training: 500/ 300
+training count: 10/5       training: 500/ 400
+training count: 10/6       training: 500/ 0
+training count: 10/6       training: 500/ 100
+training count: 10/6       training: 500/ 200
+training count: 10/6       training: 500/ 300
+training count: 10/6       training: 500/ 400
+training count: 10/7       training: 500/ 0
+training count: 10/7       training: 500/ 100
+training count: 10/7       training: 500/ 200
+training count: 10/7       training: 500/ 300
+training count: 10/7       training: 500/ 400
+training count: 10/8       training: 500/ 0
+training count: 10/8       training: 500/ 100
+training count: 10/8       training: 500/ 200
+training count: 10/8       training: 500/ 300
+training count: 10/8       training: 500/ 400
+training count: 10/9       training: 500/ 0
+training count: 10/9       training: 500/ 100
+training count: 10/9       training: 500/ 200
+training count: 10/9       training: 500/ 300
+training count: 10/9       training: 500/ 400
+testing:   1000 / 0
+testing:   1000 / 100
+testing:   1000 / 200
+testing:   1000 / 300
+testing:   1000 / 400
+testing:   1000 / 500
+testing:   1000 / 600
+testing:   1000 / 700
+testing:   1000 / 800
+testing:   1000 / 900
+error rate: 0.156 
+
+training count: 10/0       training: 500/ 0
+training count: 10/0       training: 500/ 100
+training count: 10/0       training: 500/ 200
+training count: 10/0       training: 500/ 300
+training count: 10/0       training: 500/ 400
+training count: 10/1       training: 500/ 0
+training count: 10/1       training: 500/ 100
+training count: 10/1       training: 500/ 200
+training count: 10/1       training: 500/ 300
+training count: 10/1       training: 500/ 400
+training count: 10/2       training: 500/ 0
+training count: 10/2       training: 500/ 100
+training count: 10/2       training: 500/ 200
+training count: 10/2       training: 500/ 300
+training count: 10/2       training: 500/ 400
+training count: 10/3       training: 500/ 0
+training count: 10/3       training: 500/ 100
+training count: 10/3       training: 500/ 200
+training count: 10/3       training: 500/ 300
+training count: 10/3       training: 500/ 400
+training count: 10/4       training: 500/ 0
+training count: 10/4       training: 500/ 100
+training count: 10/4       training: 500/ 200
+training count: 10/4       training: 500/ 300
+training count: 10/4       training: 500/ 400
+training count: 10/5       training: 500/ 0
+training count: 10/5       training: 500/ 100
+training count: 10/5       training: 500/ 200
+training count: 10/5       training: 500/ 300
+training count: 10/5       training: 500/ 400
+training count: 10/6       training: 500/ 0
+training count: 10/6       training: 500/ 100
+training count: 10/6       training: 500/ 200
+training count: 10/6       training: 500/ 300
+training count: 10/6       training: 500/ 400
+training count: 10/7       training: 500/ 0
+training count: 10/7       training: 500/ 100
+training count: 10/7       training: 500/ 200
+training count: 10/7       training: 500/ 300
+training count: 10/7       training: 500/ 400
+training count: 10/8       training: 500/ 0
+training count: 10/8       training: 500/ 100
+training count: 10/8       training: 500/ 200
+training count: 10/8       training: 500/ 300
+training count: 10/8       training: 500/ 400
+training count: 10/9       training: 500/ 0
+training count: 10/9       training: 500/ 100
+training count: 10/9       training: 500/ 200
+training count: 10/9       training: 500/ 300
+training count: 10/9       training: 500/ 400
+testing:   1000 / 0
+testing:   1000 / 100
+testing:   1000 / 200
+testing:   1000 / 300
+testing:   1000 / 400
+testing:   1000 / 500
+testing:   1000 / 600
+testing:   1000 / 700
+testing:   1000 / 800
+testing:   1000 / 900
+error rate: 0.098 
+
+training count: 10/0       training: 500/ 0
+training count: 10/0       training: 500/ 100
+training count: 10/0       training: 500/ 200
+training count: 10/0       training: 500/ 300
+training count: 10/0       training: 500/ 400
+training count: 10/1       training: 500/ 0
+training count: 10/1       training: 500/ 100
+training count: 10/1       training: 500/ 200
+training count: 10/1       training: 500/ 300
+training count: 10/1       training: 500/ 400
+training count: 10/2       training: 500/ 0
+training count: 10/2       training: 500/ 100
+training count: 10/2       training: 500/ 200
+training count: 10/2       training: 500/ 300
+training count: 10/2       training: 500/ 400
+training count: 10/3       training: 500/ 0
+training count: 10/3       training: 500/ 100
+training count: 10/3       training: 500/ 200
+training count: 10/3       training: 500/ 300
+training count: 10/3       training: 500/ 400
+training count: 10/4       training: 500/ 0
+training count: 10/4       training: 500/ 100
+training count: 10/4       training: 500/ 200
+training count: 10/4       training: 500/ 300
+training count: 10/4       training: 500/ 400
+training count: 10/5       training: 500/ 0
+training count: 10/5       training: 500/ 100
+training count: 10/5       training: 500/ 200
+training count: 10/5       training: 500/ 300
+training count: 10/5       training: 500/ 400
+training count: 10/6       training: 500/ 0
+training count: 10/6       training: 500/ 100
+training count: 10/6       training: 500/ 200
+training count: 10/6       training: 500/ 300
+training count: 10/6       training: 500/ 400
+training count: 10/7       training: 500/ 0
+training count: 10/7       training: 500/ 100
+training count: 10/7       training: 500/ 200
+training count: 10/7       training: 500/ 300
+training count: 10/7       training: 500/ 400
+training count: 10/8       training: 500/ 0
+training count: 10/8       training: 500/ 100
+training count: 10/8       training: 500/ 200
+training count: 10/8       training: 500/ 300
+training count: 10/8       training: 500/ 400
+training count: 10/9       training: 500/ 0
+training count: 10/9       training: 500/ 100
+training count: 10/9       training: 500/ 200
+training count: 10/9       training: 500/ 300
+training count: 10/9       training: 500/ 400
+testing:   1000 / 0
+testing:   1000 / 100
+testing:   1000 / 200
+testing:   1000 / 300
+testing:   1000 / 400
+testing:   1000 / 500
+testing:   1000 / 600
+testing:   1000 / 700
+testing:   1000 / 800
+testing:   1000 / 900
+error rate: 0.108 
+
+training count: 10/0       training: 500/ 0
+training count: 10/0       training: 500/ 100
+training count: 10/0       training: 500/ 200
+training count: 10/0       training: 500/ 300
+training count: 10/0       training: 500/ 400
+training count: 10/1       training: 500/ 0
+training count: 10/1       training: 500/ 100
+training count: 10/1       training: 500/ 200
+training count: 10/1       training: 500/ 300
+training count: 10/1       training: 500/ 400
+training count: 10/2       training: 500/ 0
+training count: 10/2       training: 500/ 100
+training count: 10/2       training: 500/ 200
+training count: 10/2       training: 500/ 300
+training count: 10/2       training: 500/ 400
+training count: 10/3       training: 500/ 0
+training count: 10/3       training: 500/ 100
+training count: 10/3       training: 500/ 200
+training count: 10/3       training: 500/ 300
+training count: 10/3       training: 500/ 400
+training count: 10/4       training: 500/ 0
+training count: 10/4       training: 500/ 100
+training count: 10/4       training: 500/ 200
+training count: 10/4       training: 500/ 300
+training count: 10/4       training: 500/ 400
+training count: 10/5       training: 500/ 0
+training count: 10/5       training: 500/ 100
+training count: 10/5       training: 500/ 200
+training count: 10/5       training: 500/ 300
+training count: 10/5       training: 500/ 400
+training count: 10/6       training: 500/ 0
+training count: 10/6       training: 500/ 100
+training count: 10/6       training: 500/ 200
+training count: 10/6       training: 500/ 300
+training count: 10/6       training: 500/ 400
+training count: 10/7       training: 500/ 0
+training count: 10/7       training: 500/ 100
+training count: 10/7       training: 500/ 200
+training count: 10/7       training: 500/ 300
+training count: 10/7       training: 500/ 400
+training count: 10/8       training: 500/ 0
+training count: 10/8       training: 500/ 100
+training count: 10/8       training: 500/ 200
+training count: 10/8       training: 500/ 300
+training count: 10/8       training: 500/ 400
+training count: 10/9       training: 500/ 0
+training count: 10/9       training: 500/ 100
+training count: 10/9       training: 500/ 200
+training count: 10/9       training: 500/ 300
+training count: 10/9       training: 500/ 400
+testing:   1000 / 0
+testing:   1000 / 100
+testing:   1000 / 200
+testing:   1000 / 300
+testing:   1000 / 400
+testing:   1000 / 500
+testing:   1000 / 600
+testing:   1000 / 700
+testing:   1000 / 800
+testing:   1000 / 900
+error rate: 0.084 
+
+training count: 10/0       training: 500/ 0
+training count: 10/0       training: 500/ 100

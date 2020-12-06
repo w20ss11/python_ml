@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/demo.py=utf-8
+encoding//src/leastSquare.py=gbk
+encoding//src/linearRegression.py=gbk
+encoding//src/softmaxRegression.py=gbk
